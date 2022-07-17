@@ -3,7 +3,7 @@
 
 
 Hello ! I'm Deniz Berk Bozkurt, Software Developer at Huawei. 🧙🏾‍♂️🧙🏾‍♂️
-<li>  💻 I’m currently working with Python.</li>
+<li>  💻 I’m currently working with Java&Spring Boot.</li>
 <li> 🌱 I'm interesting with ; Spring Boot ,React&Js , Django, Hibernate ,Docker</li>
 <li> 📫 How to reach me: denizberkbozkurt@gmail.com </li>
 
