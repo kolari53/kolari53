@@ -2,7 +2,7 @@
 <div align="center"><img src="https://c.tenor.com/VzUuZGSJoZ4AAAAC/crazy-stewie-griffin.gif" width="280" height="230"  /> </div>
 
 
-Hello ! I'm Deniz Berk Bozkurt, Software Developer at Huawei. 🧙🏾‍♂️🧙🏾‍♂️
+Hello ! I'm Deniz Berk Bozkurt, Software Developer at Adesso. 🧙🏾‍♂️🧙🏾‍♂️
 <li>  💻 I’m currently working with Java&Spring Boot.</li>
 <li> 🌱 I'm interesting with ; Spring Boot ,React&Js , Django, Hibernate ,Docker</li>
 <li> 📫 How to reach me: denizberkbozkurt@gmail.com </li>
