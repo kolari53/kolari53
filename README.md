@@ -11,7 +11,7 @@ Hello ! I'm Deniz Berk Bozkurt, Software Developer at Adesso. 🧙🏾‍♂️�
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deniz-berk-bozkurt-b07994182/ target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/deniz-berk-bozkurt-b07994182/ target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/19426297/deniz-berk-bozkurt" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
 </p>
 
